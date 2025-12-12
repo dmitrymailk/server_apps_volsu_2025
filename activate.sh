@@ -1,0 +1,1 @@
+source ./.venv_server_apps/bin/activate
