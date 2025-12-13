@@ -1,0 +1,55 @@
+‘Nature’s original engineers’: scientists explore the amazing potential of fungi
+From the outside, it looks like any ordinary nappy – one of the tens of billions that end up in landfill each year. But the Hiro diaper comes with an unusual companion: a sachet of freeze-dried fungi to sprinkle over a baby’s gloopy excretions.
+
+The idea is to kickstart a catalytic process that could see the entire nappy – plastics and all – broken down into compost within a year.
+
+Hiro was one of several innovations recognised this week by the Future is Fungi Awards, which honour groundbreaking innovations using fungi to tackle some of the planet’s most urgent environmental challenges.
+
+Several forces are converging to put fungi in the spotlight, said Prof Andrew Adamatzky at the University of the West of England in Bristol, who is investigating whether fungi could be incorporated into unconventional computing circuits.
+
+“First, people are beginning to appreciate that fungi are neither plants nor animals, but their own vast and largely unexplored kingdom with extraordinary biological abilities,” he said. “Second, practical demonstrations – fungal packaging, fungal leather, fungal insulation, even fungal electronics – have shown that these organisms can replace or augment many industrial materials. Third, we’re facing urgent global challenges: waste, pollution, biodiversity loss, and climate stress.
+
+“Fungi thrive in environments that humans consider harsh or dirty, and they can turn low-value resources into something useful. They are timely organisms with exactly the sort of properties we now need.”
+
+A Hiro diaper
+Hiro nappies come with a sachet of fungus to sprinkle over them to kickstart their breakdown. Photograph: Hiro
+Central to this promise is mycelium: the thread-like network that forms the bulk of a fungus. It can be grown into strong, lightweight materials using little more than agricultural waste, and some species secrete powerful enzymes capable of breaking down wood, petroleum-like compounds and various plastics.
+
+This dual ability – building structures and digesting complex molecules – make fungi unusually versatile. Mycelium can be grown into building materials, turned into biodegradable foams, used to clean up contaminated environments, or harnessed as biological factories to synthesise chemicals.
+
+Soft plastics typically take centuries to decompose, but Hiro’s goal is to compress this into 12 months by embedding plastics with a proprietary blend of fungi that activates in response to the moisture from babies’ excretions. The fungi happily grow in oxygen-poor landfill conditions and secrete enzymes that rapidly digest the carbon backbone of plastics, leaving no microplastics behind, said Hiro’s founder and CEO, Miki Agrawal.
+
+“So far, we’ve shown that we’re able to do this in our lab in under six months, and now we’re testing the diapers in simulated landfill conditions in natural environments,” said Agrawal.
+
+Scientists agree the approach is plausible – up to a point. “Fungi absolutely have the ability to degrade certain plastics – especially polyurethane, polyester-based plastics, and some composite materials. In the lab, this works well and continues to improve,” said Adamatzky. “But polyethylene and polypropylene remain stubbornly resistant. Some fungi can slowly erode them, but the rates are currently far too slow for industrial-scale landfill remediation.”
+
+A macro image of fungal mycelium with pale silvery threads and strands.
+Fungal mycelium can be grown into strong, lightweight materials. Photograph: Justin Long/Alamy
+Plastics are only one arena in which fungi are advancing. Two of this year’s award winners – Michroma and Mycolever – aim to turn fungi into living chemical factories that produce greener alternatives to petrochemical-derived additives, including natural food colourings and emulsifiers used in cosmetics and toiletries. Traditional versions are often carbon-intensive or rely on environmentally damaging supply chains; fungal fermentation offers a cleaner, more flexible route.
+
+Part of that flexibility comes from fungi themselves. Whereas bacteria and yeasts often need genetic engineering to make new chemicals, the broader fungal kingdom offers a much wider natural repertoire that may require no, or only minimal, engineering.
+
+“Over the last few decades, we’ve figured out that there are an estimated 5.1 million species of fungi on this planet. Advances in technology have also allowed scientists to sequence many of them, meaning we know much more about what they do – and we’ve realised they’re capable of so much,” said Britta Winterberg, the CEO and founder of Mycolever, which is using fungi to synthesise an emulsifier for personal care products.
+
+skip past newsletter promotion
+A scientist with a petri dish
+Scientists are using fungi to rapidly digest plastics in landfills. Photograph: angellodeco/Shutterstock
+Fungi’s more complex metabolisms also allow them to produce more complex compounds. “Filamentous fungi are naturally strong producers of complex secondary metabolites, including many of the world’s most vibrant pigments,” said Ricky Cassini, the CEO of Michroma, which is using them to make natural food dyes. “Their innate ability to secrete metabolites simplifies downstream processing and makes them ideal for producing food colourants with the performance the industry requires.”
+
+And unlike yeasts and bacteria, which usually need tightly controlled conditions, many fungi are less demanding. “They grow on cheap, low-value substrates – sawdust, straw, cardboard, agricultural by-products – and they often tolerate contamination that would destroy bacterial cultures,” Adamatzky said.
+
+Another emerging application draws on the natural heat-resistant properties of mycelium. “The cell walls of fungi contain materials that can resist heat, potentially making them suitable for fire-retarding efforts or insulation – either insulating houses, insulated packaging materials or fighting real-life fires,” said Dr Yassir Turki. His Jordan-based company, Metanovation, is developing a mycelium-based firefighting foam which, unlike synthetic foams that often leach PFAS “forever chemicals” into the soil, could be grown on waste materials and biodegrade naturally after use.
+
+Slime mold forming delicate filamentous threads and spherical fruiting bodies on decaying plant material against a dark background
+Scientists are experimenting with the electrical behaviour of mycelial networks. Photograph: Pawich Sattalerd/Shutterstock
+One of the most intriguing frontiers is the use of fungi in sensing and electronics – an idea that may sound like science fiction but is already being explored in laboratories.
+
+Researchers have shown that materials infused with living mycelium can behave a bit like simple electronic parts: they can pulse like tiny oscillators, briefly store signals like capacitors, and filter information the way basic circuits do. Grown into fabrics or foams, they also respond to light, pressure and chemicals, raising the possibility of living sensors that grow, self-repair, continually adapt to their environment and biodegrade when no longer needed.
+
+Adamatzky’s group is among those experimenting with the electrical behaviour of mycelial networks. “In the laboratory, we can record natural electrical spikes from mycelium and use them in bio-sensing, soft robotics, or unconventional computing,” he said. “Few biological systems are so multifunctional.”
+
+Full-scale fungal electronics remain speculative for now. But the aim of the Future is Fungi Awards is to accelerate precisely this kind of early-stage innovation. “This award exists to support the boldest visionaries turning fungal science into systemic change” said Susanne Gløersen, the founding CEO. “Fungi are nature’s original engineers. We’re simply giving them the platform they deserve.”
+
+Yet, extraordinary as fungi are, Adamatzky warned against assuming they could – or should – replace every conventional technology. “When used in the right context, fungi are powerful allies,” he said. “These organisms can make industry more sustainable, create new materials, and help with environmental repair, but they must be part of a broader technological and social shift.”
+
+Self-composting nappies could be a small step towards this goal. But their development also points to a larger truth: in the search for solutions to man-made problems, some of them may already be weaving quietly beneath out feet.
